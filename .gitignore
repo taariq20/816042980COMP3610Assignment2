@@ -1,0 +1,25 @@
+# Data files
+*.parquet
+*.csv
+*.zip
+
+# Model artifacts
+*.pth
+best_model.pth
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+env/
